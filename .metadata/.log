@@ -1,0 +1,36 @@
+!SESSION 2017-01-02 19:39:35.036 -----------------------------------------------
+eclipse.buildId=4.6.1.M20160907-1200
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=de_AT
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -keyring /Users/Filip/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.cpp.product -keyring /Users/Filip/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2017-01-02 19:40:31.502
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-02 19:41:07.555
+!MESSAGE Indexed 'hello' (1 sources, 62 headers) in 1,32 sec: 1 367 declarations; 1 939 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0 %)
+!SESSION 2017-01-11 06:02:02.949 -----------------------------------------------
+eclipse.buildId=4.6.1.M20160907-1200
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=de_AT
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -keyring /Users/Filip/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.cpp.product -keyring /Users/Filip/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2017-01-11 06:02:27.235
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-11 06:03:31.689
+!MESSAGE Indexed 'Scopulovic_Filip_Laboraufgabe' (0 sources, 0 headers) in 0,003 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0 %)
+!SESSION 2017-01-13 13:35:06.233 -----------------------------------------------
+eclipse.buildId=4.6.1.M20160907-1200
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=de_AT
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -keyring /Users/Filip/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.cpp.product -keyring /Users/Filip/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2017-01-13 13:35:15.682
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
